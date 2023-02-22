@@ -1,2 +1,2 @@
 # Repository `.github`
-Public Organization Profile
+Keep the [Public Organization Profile](profile/README.md)
